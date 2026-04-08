@@ -1,6 +1,6 @@
 # acrl
 
-aclarel is a Master's thesis project for dealing with analysis of Curriculum Learning methods in Reinforcement Learning.
+acrl is a Master's thesis project for dealing with analysis of Curriculum Learning methods in Reinforcement Learning.
 
 ## Installation & Contributing
 
